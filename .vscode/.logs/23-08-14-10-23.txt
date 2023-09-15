@@ -1,0 +1,4 @@
+23-08-14 10:23 Session started
+----------------------------------------
+10:25:27 Document switched to: g:\Min enhet\Webb1_Projects\Javascript todolist localStorage\todo.js
+----------------------------------------

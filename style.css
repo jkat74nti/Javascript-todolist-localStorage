@@ -1,0 +1,13 @@
+ul{
+    width: 40%;
+    cursor: crosshair;
+}
+li{
+    color:black;
+    background-color: white;
+}
+
+.checked{
+    text-decoration-line: line-through;
+    color:red;
+}
